@@ -1,0 +1,142 @@
+﻿body {
+    background-color: #c3c4c4;
+    overflow: hidden;
+}
+
+svg {
+    height: 600px;
+    position: absolute;
+    width: 400px;
+}
+
+path {
+    fill: transparent;
+    stroke: rgba(33, 150, 243, 0.2);
+    stroke-width: 0.5;
+}
+
+.wrapper {
+    align-items: center;
+    color: #323333;
+    display: flex;
+    font-family: monospace;
+    font-size: 16px;
+    height: 600px;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 400px;
+}
+
+    .wrapper h1, .wrapper p {
+        position: absolute;
+        z-index: 999;
+    }
+
+    .wrapper h1 {
+        font-size: 2em;
+        top: 70%;
+    }
+
+    .wrapper p {
+        font-weight: 600;
+        top: calc(70% + 2.5em);
+    }
+
+.grid-lines {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+}
+
+.grid-lines__line {
+    stroke-width: 0.1666666667;
+}
+
+.grid-lines__line--cir {
+    stroke: rgba(18, 17, 17, 0.25);
+}
+
+.grid-lines__line--diag {
+    stroke: rgba(18, 17, 17, 0.15);
+}
+
+.grid-lines__line--hor {
+    stroke: rgba(18, 17, 17, 0.15);
+}
+
+.grid-lines__line--ver {
+    stroke: rgba(18, 17, 17, 0.2);
+}
+
+.wiz {
+    fill: transparent;
+    stroke: rgba(255, 25, 13, 0.5);
+}
+
+.wiz--beard,
+.wiz--eye,
+.wiz--eye-brow,
+.wiz--hair,
+.wiz--hair-bg,
+.wiz--head,
+.wiz--mouth,
+.wiz--mustache,
+.wiz--staff,
+.wiz--sword {
+    stroke: transparent;
+}
+
+.wiz--beard {
+    fill: #efeeee;
+    stroke: rgba(150, 153, 153, 0.5);
+}
+
+.wiz--eye {
+    fill: #0b62a6;
+    stroke: #044475;
+}
+
+.wiz--eye-brow {
+    fill: #dcdddd;
+    stroke: rgba(50, 51, 51, 0.5);
+}
+
+.wiz--hair {
+    fill: #efeeee;
+    stroke: rgba(150, 153, 153, 0.5);
+}
+
+.wiz--hair-bg {
+    fill: #323333;
+}
+
+.wiz--head {
+    fill: #ffcf9a;
+}
+
+.wiz--mouth {
+    fill: #121111;
+}
+
+.wiz--mustache {
+    fill: #dcdddd;
+    stroke: rgba(50, 51, 51, 0.5);
+}
+
+.wiz--staff {
+    fill: #323333;
+    transform: rotate(-45deg) translateX(30%) translateY(-10%);
+    transform-origin: 50% 50%;
+}
+
+.wiz--sword {
+    fill: #969999;
+    transform: rotate(45deg) translateX(-35%) translateY(-5%);
+    transform-origin: 50% 50%;
+}

@@ -1,0 +1,194 @@
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\appsettings.json
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Gflower.staticwebassets.runtime.json
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Gflower.exe
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Gflower.deps.json
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Gflower.runtimeconfig.json
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Gflower.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Gflower.pdb
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.csproj.AssemblyReference.cache
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.AssemblyInfoInputs.cache
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.AssemblyInfo.cs
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.csproj.CoreCompileInputs.cache
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\staticwebassets\msbuild.Gflower.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\staticwebassets\msbuild.build.Gflower.props
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gflower.props
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gflower.props
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\scopedcss\bundle\Gflower.styles.css
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.csproj.CopyComplete
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\refint\Gflower.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.pdb
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.genruntimeconfig.cache
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\ref\Gflower.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.RazorAssemblyInfo.cache
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\obj\Debug\net6.0\Gflower.RazorAssemblyInfo.cs
+C:\Users\Quan\Desktop\p.Quân\SE1616\Spring 2023\PRN221\CODE DEMO\Gflower\Gflower\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\appsettings.Development.json
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\appsettings.json
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Gflower.staticwebassets.runtime.json
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Gflower.exe
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Gflower.deps.json
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Gflower.runtimeconfig.json
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Gflower.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Gflower.pdb
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Humanizer.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.csproj.AssemblyReference.cache
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.AssemblyInfoInputs.cache
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.AssemblyInfo.cs
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.csproj.CoreCompileInputs.cache
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.MvcApplicationPartsAssemblyInfo.cache
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.RazorAssemblyInfo.cache
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.RazorAssemblyInfo.cs
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\staticwebassets.build.json
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\staticwebassets.development.json
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\scopedcss\bundle\Gflower.styles.css
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.csproj.CopyComplete
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\refint\Gflower.dll
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.pdb
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\Gflower.genruntimeconfig.cache
+D:\fpt\ki7\prn221\Gflower\Gflower\Gflower\obj\Debug\net6.0\ref\Gflower.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Gflower.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Gflower.exe
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Gflower.deps.json
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Gflower.runtimeconfig.json
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Gflower.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Gflower.pdb
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\scopedcss\bundle\Gflower.styles.css
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.csproj.CopyComplete
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\refint\Gflower.dll
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.pdb
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\Gflower.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Hoc Ki 7\PRN221\DCK\Gflower\Gflower\obj\Debug\net6.0\ref\Gflower.dll

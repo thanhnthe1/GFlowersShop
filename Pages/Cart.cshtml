@@ -1,0 +1,231 @@
+﻿@page
+@model Gflower.Pages.CartModel
+@{
+}
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Cart</title>
+    <link rel="shortcut icon" href="~/Image/Resource/icon.ico" type="image/x-icon">
+
+   
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan|Poppins:400,600,700&display=swap"
+          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="~/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/cart.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+          integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+<body>
+    <header class="header_section" style="padding: 10px 0;">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg custom_nav-container " style="display: flex;">
+                <a class="navbar-brand" href="~/home" style="width: 32%;">
+                 
+                    <span>
+                        Home
+                    </span>
+                </a>
+
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent" style="width: 68%;display: flex;">
+                    <div class="d-flex mx-auto flex-column flex-lg-row align-items-center" style="width: 70%;">
+                        <ul class="navbar-nav " style="list-style-type: none;display: flex;">
+                            <li class="nav-item ">
+                                <a class="nav-link" href="~/home">Home </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href=""> About</a>
+                            </li>
+                           <li class="nav-item">
+                                <a class="nav-link" href="~/gallery"> Gallery </a>
+                            </li>
+                         <!--    <li class="nav-item">
+                                <a class="nav-link" href="">Contact us</a>
+                            </li>
+                            -->
+                        </ul>
+                    </div>
+                    <div class="quote_btn-container " style="width: 30%;">
+                        @{
+                            string accountSession = HttpContext.Session.GetString("username");
+                        }
+                        @if (Model.account == null)
+                        {
+                            <a style="font-size: 16px" href="~/login">
+                                Log in
+                            </a>
+                        }
+                        @if (Model.account != null)
+                        {
+                            <div class="dropdown-header" style="padding-right: 5px;padding-right: 5px">
+                                <a style="font-size: 16px">
+                                    Hello <span style="color: #3b579d">@Model.account.FirstName</span>
+                                </a>
+                                <div class="dropdown-content-header">
+                                    <ul style="padding-left: 0;">
+                                        @if (Model.account.Role == 1)
+                                        {
+                                            <li><a href="~/management">Management</a></li>
+                                        }
+                                     <!--    <li><a href="~/myorder">My order</a></li>
+                                        <li><a href="">User profile</a></li>-->
+                                        <li><a href="~/logout">Log out</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        }
+                        <a class="img-cart" href="~/cart">
+                            <img src="~/Image/Resource/cart.png" alt="">
+
+                            @if (Model.carts != null && Model.carts.Count > 0)
+                            {
+                                <span id="number-cart">@Model.carts.Count</span>
+                            }
+                            else
+                            {
+                                <span id="number-cart"></span>
+                            }
+
+                        </a>
+
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <div id="cart-body">
+        <div class="fake-body">
+            <div class="CartContainer" id="CartContainer">
+                <div class="Header">
+                    <h3 class="Heading">Your Cart</h3>
+                  <!--  <h5 class="Action">Remove all</h5>-->
+                </div>
+                @if (Model.carts != null &&Model.carts.Count>0)
+                {
+                    decimal discount, oldPrice, price, total = 0;
+                    var carts = Model.carts;
+                    @for (int i = 0; i < carts.Count(); i++)
+                    {
+                        <div class="Cart-Items">
+                            <div class="image-box">
+                                <img src="~/Image/bouquet/@carts[i].Product.ProductImage" height="120px" />
+                            </div>
+                            <div class="about">
+                                <h1 class="title">
+                                    @carts[i].Product.ProductName
+                                </h1>
+                                <h1 class="id-product" hidden>
+                                    @carts[i].ProductId
+                                </h1>
+
+                                @{
+                                    total += carts[i].TotalPrice;
+                                }
+                                <h3 class="unitprice">
+                                    $@Math.Round(carts[i].Product.ProductPrice,2)
+                                </h3>
+                            </div>
+                            <div class="counter">
+                                <div class="btn">+</div>
+                                <div class="count">
+                                    @carts[i].Quantity
+                                </div>
+                                <div class="btn">-</div>
+                            </div>
+                            <div class="prices">
+                                <div class="amount">
+                                    $@Math.Round(carts[i].TotalPrice,2)
+                                </div>
+                                <div class="remove"><u>Remove</u></div>
+                            </div>
+                        </div>
+                    }
+                    @if (carts != null && carts.Count() > 0)
+                    {
+                        <hr>
+                        <div class="">
+                            <div class="total">
+                                <div>
+                                    <div class="Subtotal" id="total">Total</div>
+                                    <div class="items">@carts.Count() items</div>
+                                </div>
+                                <div class="total-amount">
+                                    $@Math.Round(total,2)
+                                </div>
+                            </div>
+                            <button class="button btn-checkout" style="width: 28%">Checkout</button>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <h2 style="text-align: center">Cart is empty, add products to</h2>
+                    <div style="margin-left: 40%;">
+                        <img src="~/Image/Resource/shopping.gif" width="30%">
+                    </div>
+                }
+
+
+            </div>
+        </div>
+
+        
+    </div>
+    <footer class="container-fluid footer_section">
+
+        <div class="container p-4">
+            <!--Grid row-->
+            <div style="display: flex;">
+
+                <!--Grid column-->
+                <div class="col-lg-6 col-md-6 mb-6 mb-md-0" style="width: 50%; margin: 0 20rem;">
+                    <h5 class="text-uppercase mb-4 pb-1" style="margin-bottom: 0;">
+                        <i class="fas fa-search"></i>&nbsp;Contact with us
+                    </h5>
+                    <ul class="fa-ul" style="margin-left: 1.65em;">
+                        <li class="mb-3 text-footer">
+                            <span class="fa-li"><i class="fas fa-home"></i></span><span class="ms-2">
+                                Hoàng Quốc Việt,
+                                Cầu Giấy, Hà Nội
+                            </span>
+                        </li>
+                        <li class="mb-3 text-footer">
+                            <span class="fa-li"><i class="fas fa-envelope"></i></span><span class="ms-2">
+                                Email support:
+                                hoidap@gflower.vn
+                            </span>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="col-lg-6 col-md-6 mb-6 mb-md-0" style="width: 50%;">
+                    <h5 class="text-uppercase mb-4" style="width: 500px;margin-bottom: 0;">
+                        <i class="far fa-clock"></i>&nbsp;Support customer
+                    </h5>
+
+                    <ul class="fa-ul text-footer" style="margin-left: 1.65em;">
+                        <li class="mb-3">
+                            <span class="ms-2">Time: 8:00 - 20:00</span>
+                        </li>
+                        <li class="mb-3 text-footer">
+                            <span class="fa-li"><i class="fas fa-phone"></i></span><span class="ms-2">
+                                Hotline: 1900
+                                6017
+                            </span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+<script src="~/js/cart.js"></script>
+</html>

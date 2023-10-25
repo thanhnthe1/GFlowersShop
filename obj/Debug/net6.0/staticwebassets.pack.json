@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\addcart.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\addcart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\banner.png",
+      "PackagePath": "staticwebassets\\Image\\Resource\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\banner\\banner1.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\banner\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\banner\\banner2.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\banner\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\banner\\banner3.png",
+      "PackagePath": "staticwebassets\\Image\\Resource\\banner\\banner3.png"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\bg-registration-form-4.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\bg-registration-form-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\bg1.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\bg3.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\cart.png",
+      "PackagePath": "staticwebassets\\Image\\Resource\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\close.png",
+      "PackagePath": "staticwebassets\\Image\\Resource\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\flowIcon.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\flowIcon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\icon.ico",
+      "PackagePath": "staticwebassets\\Image\\Resource\\icon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\iconadd.png",
+      "PackagePath": "staticwebassets\\Image\\Resource\\iconadd.png"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\iconavatar.png",
+      "PackagePath": "staticwebassets\\Image\\Resource\\iconavatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\left.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\left.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\login.gif",
+      "PackagePath": "staticwebassets\\Image\\Resource\\login.gif"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\product1.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\product2.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\product3.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\registration-form-4.jpg",
+      "PackagePath": "staticwebassets\\Image\\Resource\\registration-form-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\ship.gif",
+      "PackagePath": "staticwebassets\\Image\\Resource\\ship.gif"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\shopping.gif",
+      "PackagePath": "staticwebassets\\Image\\Resource\\shopping.gif"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\tick.gif",
+      "PackagePath": "staticwebassets\\Image\\Resource\\tick.gif"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\Resource\\visa1.png",
+      "PackagePath": "staticwebassets\\Image\\Resource\\visa1.png"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\bouquet\\5a14db82-6dfa-4472-a0d3-4f0e83b8f3e0_bou5.jpeg",
+      "PackagePath": "staticwebassets\\Image\\bouquet\\5a14db82-6dfa-4472-a0d3-4f0e83b8f3e0_bou5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\bouquet\\bou1.jpeg",
+      "PackagePath": "staticwebassets\\Image\\bouquet\\bou1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\bouquet\\bou2.jpeg",
+      "PackagePath": "staticwebassets\\Image\\bouquet\\bou2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\bouquet\\bou3.jpeg",
+      "PackagePath": "staticwebassets\\Image\\bouquet\\bou3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\bouquet\\bou4.jpeg",
+      "PackagePath": "staticwebassets\\Image\\bouquet\\bou4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\bouquet\\bou5.jpeg",
+      "PackagePath": "staticwebassets\\Image\\bouquet\\bou5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\bouquet\\bou6.jpeg",
+      "PackagePath": "staticwebassets\\Image\\bouquet\\bou6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\bouquet\\bou7.jpeg",
+      "PackagePath": "staticwebassets\\Image\\bouquet\\bou7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\bouquet\\bou8.jpeg",
+      "PackagePath": "staticwebassets\\Image\\bouquet\\bou8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\Image\\bouquet\\bou9.jpeg",
+      "PackagePath": "staticwebassets\\Image\\bouquet\\bou9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\403.css",
+      "PackagePath": "staticwebassets\\css\\403.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\c3.min.css",
+      "PackagePath": "staticwebassets\\css\\c3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\dashboard1.css",
+      "PackagePath": "staticwebassets\\css\\dashboard1.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\gallery.css",
+      "PackagePath": "staticwebassets\\css\\gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\morris.css",
+      "PackagePath": "staticwebassets\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\myorder.css",
+      "PackagePath": "staticwebassets\\css\\myorder.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\perfect-scrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\signup.css",
+      "PackagePath": "staticwebassets\\css\\signup.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\spinners.css",
+      "PackagePath": "staticwebassets\\css\\spinners.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\css\\styleManagement.css",
+      "PackagePath": "staticwebassets\\css\\styleManagement.css"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\font\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\Merri\\MerriweatherSans-Italic-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\font\\Merri\\MerriweatherSans-Italic-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\Merri\\MerriweatherSans-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\font\\Merri\\MerriweatherSans-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\Merri\\OFL.txt",
+      "PackagePath": "staticwebassets\\font\\Merri\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\el_messiri\\ElMessiri-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\el_messiri\\ElMessiri-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\el_messiri\\OFL.txt",
+      "PackagePath": "staticwebassets\\font\\el_messiri\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\font\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\font\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\font\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\cart.js",
+      "PackagePath": "staticwebassets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\js\\custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\dashboard1.js",
+      "PackagePath": "staticwebassets\\js\\dashboard1.js"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\gallery.js",
+      "PackagePath": "staticwebassets\\js\\gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\payment.js",
+      "PackagePath": "staticwebassets\\js\\payment.js"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\Quan\\Desktop\\p.Quân\\SE1616\\Spring 2023\\PRN221\\CODE DEMO\\Gflower\\Gflower\\wwwroot\\js\\waves.js",
+      "PackagePath": "staticwebassets\\js\\waves.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Gflower.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Gflower.props",
+      "PackagePath": "build\\Gflower.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Gflower.props",
+      "PackagePath": "buildMultiTargeting\\Gflower.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Gflower.props",
+      "PackagePath": "buildTransitive\\Gflower.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

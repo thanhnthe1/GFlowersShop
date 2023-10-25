@@ -1,0 +1,132 @@
+.fake-body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../Image/Resource/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CartContainer {
+    width: 70%;
+    height: 90%;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0px 10px 20px rgba(240, 199, 206, 1);
+}
+
+.Header {
+    margin: auto;
+    width: 90%;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Heading {
+    font-size: 20px;
+    font-family: "MerriweatherSans";
+    font-weight: 700;
+}
+
+.Action {
+    font-size: 14px;
+    font-family: "MerriweatherSans";
+    font-weight: 600;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+    color: #d9534f;
+}
+
+.table-order {
+    width: 90%;
+    /*background: #5fc3e4;*/
+    margin-right: auto;
+    margin-left: auto;
+    border: none;
+    border-collapse: collapse;
+}
+
+.table-order thead {
+    height: 60px;
+    margin: 0;
+    background-color: #E4C45C;
+}
+
+.row-order {
+    background-color: #E1D6B1;
+    padding-top: 10px;
+    height: 50px;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+}
+
+.row-order a {
+    color: #4a5561;
+    font-size: 19px;
+}
+
+.table-order tbody {
+    text-align: center;
+}
+
+.container-pagination {
+    background: white;
+    padding: 25px;
+    border-radius: 3px;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pagination {
+    display: flex;
+    list-style: none;
+    width: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pagination li {
+    flex: 1;
+    margin: 0px 5px;
+    background: #dde1e7;
+    border-radius: 3px;
+    width: 60px;
+    text-align: center;
+    box-shadow: -3px -3px 7px #ffffff73, 3px 3px 5px rgba(94, 104, 121, 0.288);
+}
+.pagination li a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #4d3252;
+    height: 40px;
+    width: 40px;
+    display: block;
+    line-height: 45px;
+}
+.pagination li.active {
+    box-shadow: inset -3px -3px 7px #ffffff73,
+    inset 3px 3px 5px rgba(94, 104, 121, 0.288);
+}
+.pagination li.active a {
+    font-size: 15px;
+    color: #6f6cde;
+}
+.pagination li:first-child {
+    margin: 0 15px 0 0;
+}
+.pagination li:last-child {
+    margin: 0 0 0 15px;
+}
+.text-pagging a{
+    width: 60px;
+}
+
+
+
+

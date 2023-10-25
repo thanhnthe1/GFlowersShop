@@ -1,0 +1,46 @@
+﻿@page
+@model SignupModel
+@{
+}
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Signup</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- STYLE CSS -->
+	<link rel="stylesheet" href="~/css/signup.css">
+</head>
+<body>
+
+	<div class="wrapper">
+		
+			
+			<form method="post" style="padding-top:30px">
+				<h3>Sign Up</h3>
+				<div class="form-holder active">
+					<input placeholder="Last name" asp-for="Input.LastName" class="form-control" required>
+				</div>
+				<div class="form-holder">
+					<input placeholder="Fisrt name" asp-for="Input.FirstName" class="form-control" required>
+				</div>
+				<div class="form-holder">
+					<input placeholder="Username" asp-for="Input.Username" class="form-control" required>
+				</div>
+				<div class="form-holder">
+					<input placeholder="Password" asp-for="Input.Password" class="form-control" style="font-size: 15px;" required>
+				</div>
+
+				<div style="margin: 5px;width: auto;color: red;text-align:center" asp-validation-summary="All" id="message"></div>
+				<div class="form-login">
+					<button type="submit">Sign up</button>
+					<p>Already Have account? <a href="~/Login">Login</a></p>
+				</div>
+			</form>
+		
+	</div>
+
+	<script src="~/js/jquery-3.3.1.min.js"></script>
+	<script src="~/js/main.js"></script>
+</body>
+</html>

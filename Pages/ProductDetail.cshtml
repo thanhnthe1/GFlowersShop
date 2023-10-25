@@ -1,0 +1,102 @@
+﻿@page
+@model Gflower.Pages.ProductDetailModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="wrappixel, admin dashboard, html css dashboard, web dashboard, bootstrap 5 admin, bootstrap 5, css3 dashboard, bootstrap 5 dashboard, AdminWrap lite admin bootstrap 5 dashboard, frontend, responsive bootstrap 5 admin template, AdminWrap lite design, AdminWrap lite dashboard bootstrap 5 dashboard template">
+    <meta name="description" content="AdminWrap Lite is powerful and clean admin dashboard template, inpired from Bootstrap Framework">
+    <meta name="robots" content="noindex,nofollow">
+    <title>Admin</title>
+    <link rel="shortcut icon" href="~/Image/Resource/icon.ico" type="image/x-icon">
+    <!-- Favicon icon -->
+    <!-- Bootstrap Core CSS -->
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/css/perfect-scrollbar.css" rel="stylesheet">
+    <!-- This page CSS -->
+    <!-- chartist CSS -->
+    <link href="~/css/morris.css" rel="stylesheet">
+    <!--c3 CSS -->
+    <link href="~/css/c3.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="~/css/styleManagement.css" rel="stylesheet">
+    <!-- Dashboard 1 Page CSS -->
+    <link href="~/css/dashboard1.css" rel="stylesheet">
+</head>
+
+<body class="fix-header fix-sidebar card-no-border">
+    <!-- ============================================================== -->
+    <!-- Preloader - style you can find in spinners.css -->
+    <!-- ============================================================== -->
+
+    <div id="main-wrapper">
+        <!-- ============================================================== -->
+        <!-- Topbar header - style you can find in pages.scss -->
+        <!-- ============================================================== -->
+        <header class="topbar" style="margin-bottom:20px">
+            <nav class="navbar top-navbar navbar-expand-md navbar-light">
+                <!-- ============================================================== -->
+                <!-- Logo -->
+                <!-- ============================================================== -->
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="/Home">
+                        <span style="border:3px solid black; padding:10px">
+                            HOME
+                        </span>
+                    </a>
+                </div>
+
+                <!-- ... Rest of your header code ... -->
+            </nav>
+        </header>
+
+        <div class="row">
+            <!-- Start Notification -->
+            <div class="col-lg-12 col-md-12">
+                <div class="card card-body mailbox">
+                    <div class="container" id="addNew">
+                        <h2>CF Delete Product</h2>
+                        <p>Product Name: @Model.Product.ProductName</p>
+                        <p>Product Description: @Model.Product.ProductDescription</p>
+                        <p>Price: @Model.Product.ProductPrice</p>
+
+                        <!-- Form to delete the product -->
+                        <form method="post" asp-page-handler="Delete" asp-route-productId="@Model.Product.ProductId">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                            <a asp-page="./Product" class="btn btn-secondary">Back to List</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <!-- End Notification -->
+        </div>
+
+        <footer class="footer"> © 2023 Gflower</a> </footer>
+    </div>
+
+    <!-- ============================================================== -->
+    <!-- End Page wrapper  -->
+    <!-- ============================================================== -->
+
+    <!-- ============================================================== -->
+    <!-- All Jquery -->
+    <!-- ============================================================== -->
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/perfect-scrollbar.jquery.min.js"></script>
+    <!--Wave Effects -->
+    <script src="~/js/waves.js"></script>
+    <!--Menu sidebar -->
+    <script src="~/js/sidebarmenu.js"></script>
+    <!--Custom JavaScript -->
+    <script src="~/js/custom.min.js"></script>
+    <script src="~/js/dashboard1.js"></script>
+</body>
+
+</html>

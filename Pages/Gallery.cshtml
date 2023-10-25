@@ -1,0 +1,348 @@
+﻿@page
+@model Gflower.Pages.GalleryModel
+@{
+}
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Gallery</title>
+    <link rel="shortcut icon" href="~/Image/Resource/icon.ico" type="image/x-icon">
+  
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan|Poppins:400,600,700&display=swap"
+          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="~/css/gallery.css" />
+    <link rel="stylesheet" type="text/css" href="~/css/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+          integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<header class="header_section" style="padding: 10px 0;">
+    <div class="container">
+        <nav class="navbar navbar-expand-lg custom_nav-container " style="display: flex;">
+             <a class="navbar-brand" href="~/home" style="width: 32%;">
+                 
+                    <span>
+                        Home
+                    </span>
+                </a>
+
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent" style="width: 68%;display: flex;">
+                    <div class="d-flex mx-auto flex-column flex-lg-row align-items-center" style="width: 70%;">
+                        <ul class="navbar-nav " style="list-style-type: none;display: flex;">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="~/home">Home </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="product"> Manager</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/gallery"> Gallery </a>
+                            </li>
+                               
+                            
+                        </ul>
+                    </div>
+                    @{
+                        string accountSession = HttpContext.Session.GetString("username");
+                    }
+                    <div class="quote_btn-container " style="width: 30%;">
+
+                        @if (Model.account == null)
+                        {
+                            <a href="~/login">
+                                Log in
+
+                            </a>
+                        }
+                        
+                        @if (Model.account !=null )
+                        {
+                            <div class="dropdown-header">
+                                <a>Hello <span style="color: #3b579d">@Model.account.FirstName</span></a>
+                                <div class="dropdown-content-header">
+                                    <ul style="padding-left: 0;">
+                              
+                                     <!--  
+                                          <li><a href="~/management">Management</a></li>
+                                        <li><a href="/myorder">My order</a></li>
+                                        <li><a href="">User profile</a></li>
+                                        <li><a href="/logout">Log out</a></li>
+                                         -->
+                                         @if (Model.account.Role == 1)
+                                        {
+                                            <li><a href="~/product">Management</a></li>
+                                        } 
+                                        <li><a href="/logout">Log out</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        }
+
+                        <a class="img-cart" href="~/cart">
+                            <img src="~/Image/Resource/cart.png" alt="">
+
+                            @if (Model.carts != null && Model.carts.Count > 0)
+                            {
+                                <span id="number-cart">@Model.carts.Count</span>
+                            }
+                            else
+                            {
+                                <span id="number-cart"></span>
+                            }
+
+                        </a>
+
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+<div style="display: flex;height: auto;">
+    <div class="row" style="width: 17%;margin-left: 5%;margin-right: 2%;float: left;">
+        <div class="col-xl-3 d-none d-xl-block">
+   
+        </div>
+    
+    </div>
+    <section class="section-buy">
+        <div class="container" style="width: 100%;">
+            <div>
+               
+            </div>
+            <div class="col-xl">
+                <form class="" id="search-form" action="" method="GET" style="display: flex;margin-bottom: 20px;">
+                    <div class="col-12 col-lg-6 col-md-6 px-1" style="width: 80%;">
+                        <div class="sort-by-box">
+                            <div class="form-group" style="display: flex;">
+                                <label style="margin-top: 5px;margin-right: 2%;font-size: 15px">Search </label>
+                                <div class="search-widget">
+                                    <input class="form-control input-lg" type="text" name="q"
+                                           placeholder="Search by name product" value="">
+                                    <button type="submit" class="btn-inner">
+                                        <i class="fa fa-search"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="margin-right: 30%;">
+                        <div class="sort-by-box px-1">
+                            <div class="form-group" style="display:flex ;">
+                                <label
+                                        style="margin-top: 5px;margin-right: 2%;font-size: 15px;width: 20%;">Filter</label>
+                                <select class="form-control sortSelect" name="sort_by" style="width: 150px;">
+                                    <option disabled selected >Filter by</option>
+                                    <option value="1">New</option>
+                                    <option value="3">Price from low to high</option>
+                                    <option value="4">Price from high to low</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </form>
+
+                <div class="products-box-bar p-3 bg-white">
+                    <div class="row sm-no-gutters gutters-5" id="load_more_products">
+                        @if (Model.products != null)
+                        {
+                            @for (var i = 0; i < Model.products.Count; i++)
+                            {
+                                var product = Model.products[i];
+                                @if (i == 0)
+                                {
+                                    @:<div style="display: flex;">
+                                }
+                                else if (i % 4 == 0)
+                                {
+                                    @:</div>
+                                    @:<div style="display: flex;">
+                                }
+                                @:<div class="my-2 col-lg-3 col-md-4 col-6 product-table" style="width: 25%;">
+                                    @:<div class="product-box-2 h-100 bg-white position-relative" id="product-card" style="text-align: center">
+                                        <a class="position-absolute h-100 w-100" style="z-index: 3" href=""></a>
+                                        <a href="~/Detail">
+                                        <img src="~/Image/bouquet/@product.ProductImage" style="width: 80%; "
+                                                        class="image-loader" id="product-image">
+                                                        </a>
+                                            @:<div class="p-3 content-product">
+                                                <h2 class="product-title p-0">@product.ProductName</h2>
+                                                <p class="product-id" hidden>@product.ProductId</p>
+                                                @:<div class="clearfix d-flex w-100 align-items-end">
+                                                    @:<div class="price-box float-left flex-grow-1" style="width: 50%;">
+                                                        @if (product.Discount > 0)
+                                                        {
+                                                            decimal oldPrice = product.ProductPrice;
+                                                            decimal discountPrice = oldPrice - (((decimal)product.Discount / 100) * oldPrice);
+                                                            discountPrice = Math.Round(discountPrice, 2);
+
+                                                            <span><del class="old-product-price strong-400 text-md">$@Math.Round(oldPrice, 2)</del></span>
+                                                            <div class="d-none d-lg-block product-price strong-600">$@discountPrice</div>
+                                                        }
+                                                        else
+                                                        {
+                                                            <div class="d-none d-lg-block product-price strong-600">$@Math.Round(product.ProductPrice, 2)</div>
+                                                        }
+                                                        @:</div>
+                                                        <div class="float-right d-none d-lg-block">
+                                                            <div class="add-to-cart url_product" title="Add cart"></div>
+                                                        </div>
+                                                    @:</div>
+                                                @:</div>
+                                            @:</div>
+                                        @:</div>
+                                        @if (i == Model.products.Count - 1)
+                                        {
+                                            @:</div>
+                                        }
+                            }
+                         <!--   <div id="load-more" class="d-flex mt-4">
+                                <button class="m-auto btn" style="cursor: pointer; color: black;background-color: white;"
+                                        id="load_more_button" onclick="loadMore()">Show more
+                                </button>
+                            </div>-->
+                        @:</div>
+                    @:</div>
+                        }
+                        else
+                        {
+                            <h4 style="text-align:center">List product empty</h4>
+                        }
+                        
+
+                   
+
+
+                </div>
+                <div class="products-pagination bg-white p-3">
+                    <nav aria-label="Center aligned pagination">
+                        <ul class="pagination justify-content-center">
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+</div>
+
+
+<footer class="container-fluid footer_section">
+    <!-- <div >
+    <p>
+        <span>Contact with us</span>
+    </p>
+    <p>Phone :</p> -->
+    <div class="container p-4">
+        <!--Grid row-->
+        <div style="display: flex;">
+
+            <!--Grid column-->
+            <div class="col-lg-6 col-md-6 mb-6 mb-md-0" style="width: 50%; margin: 0 20rem;">
+                <h5 class="text-uppercase mb-4 pb-1" style="margin-bottom: 0;"><i
+                        class="fas fa-search"></i>&nbsp;Contact with us</h5>
+                <ul class="fa-ul" style="margin-left: 1.65em;">
+                    <li class="mb-3 text-footer">
+                        <span class="fa-li"><i class="fas fa-home"></i></span><span class="ms-2">Hoàng Quốc Việt,
+                                Cầu Giấy, Hà Nội</span>
+                    </li>
+                    <li class="mb-3 text-footer">
+                        <span class="fa-li"><i class="fas fa-envelope"></i></span><span class="ms-2">Email support:
+                                hoidap@gflower.vn</span>
+                    </li>
+
+                </ul>
+            </div>
+
+            <div class="col-lg-6 col-md-6 mb-6 mb-md-0" style="width: 50%;">
+                <h5 class="text-uppercase mb-4" style="width: 500px;margin-bottom: 0;"><i
+                        class="far fa-clock"></i>&nbsp;Support customer</h5>
+
+                <ul class="fa-ul text-footer" style="margin-left: 1.65em;">
+                    <li class="mb-3">
+                        <span class="ms-2">Time: 8:00 - 20:00</span>
+                    </li>
+                    <li class="mb-3 text-footer">
+                        <span class="fa-li"><i class="fas fa-phone"></i></span><span class="ms-2">Hotline: 1900
+                                6017</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="modal-nofi" id="admin-add-modal">
+    <div class="modal-nofi-overlay"></div>
+    <!--<button type="button" id="cboxClose">close</button>-->
+    <div class="modal-add modal-dialog-scrollable" role="document" style="top:50%">
+        <button onclick="closeModal()" id="cboxClose"></button>
+        <div class="modal-body row" style="padding: 0.5rem">
+
+            <div class="body-modal">
+                <div style="text-align: center">
+                    <h2>Successfully added products to cart</h2>
+                </div>
+                <img style="margin-left: 45%" src="~/Image/Resource/tick.gif" width="60px">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="~/js/gallery.js"></script>
+<script>
+    $(".add-to-cart").on("click", function () {
+        var $button = $(this),
+            $title = $button.closest('.content-product').find(".product-id");
+        var product = $title.text();
+        var numOld = $("#number-cart").text().trim().length > 0 ? parseInt($("#number-cart").text()) : 0;
+
+
+
+        $.ajax({
+            type: 'GET',
+            url: '/Gallery?handler=AddCart',
+            data: { productId: product },
+            success: function (data) {
+                if (data.success) {
+                    if(data.status == false){
+                        $("#number-cart").text(numOld + 1);
+                    }
+                    $("#admin-add-modal").show();
+                }
+            }
+        });
+    });
+
+
+
+    function loadMore() {
+        var count = document.getElementsByClassName("product-table").length;
+        $.ajax({
+            type: "post",
+            url: "${pageContext.request.contextPath}/gallery",
+            data: {
+                amount: count
+            },
+            beforeSend: function () {
+                $("#load_more_button").hide();
+                $("#load-more").remove();
+            },
+            success: function (data) {
+                var c = document.getElementById("load_more_products");
+                c.innerHTML += data;
+                loadJs();
+
+            }
+        });
+    }
+
+
+</script>
+</html>

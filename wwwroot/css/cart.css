@@ -1,0 +1,298 @@
+@font-face {
+    font-family: "MerriweatherSans";
+    src: url("../font/Merri/MerriweatherSans-VariableFont_wght.ttf");
+}
+/*list product*/
+.fake-body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../Image/Resource/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fake-body-checkout {
+    margin: 0;
+    padding: 0;
+    background-image: url(../Image/Resource/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CartContainer {
+    width: 70%;
+    height: 90%;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0px 10px 20px rgba(240, 199, 206, 1);
+    overflow: scroll;
+}
+
+.CartContainer-checkout {
+    width: 70%;
+    height: 90%;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    box-shadow: 0px 10px 20px rgba(240, 199, 206, 1);
+}
+
+.Header {
+    margin: auto;
+    width: 90%;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Heading {
+    font-size: 20px;
+    font-family: "MerriweatherSans";
+    font-weight: 700;
+}
+
+.Action {
+    font-size: 14px;
+    font-family: "MerriweatherSans";
+    font-weight: 600;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+}
+
+.Cart-Items {
+    margin: auto;
+    width: 90%;
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image-box {
+    width: 15%;
+    text-align: center;
+}
+
+.about {
+    height: 100%;
+    width: 24%;
+}
+
+.title {
+    padding-top: 10px;
+    line-height: 5px;
+    font-size: 24px;
+    font-family: "MerriweatherSans";
+    font-weight: 600;
+    color: #202020;
+    width: 450px;
+}
+
+.subtitle {
+    line-height: 10px;
+    font-size: 18px;
+    font-family: "MerriweatherSans";
+    font-weight: 600;
+    color: #909090;
+}
+
+.counter {
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: "MerriweatherSans";
+    font-weight: 900;
+    color: #202020;
+    cursor: pointer;
+}
+
+.count {
+    font-size: 20px;
+    font-family: "MerriweatherSans";
+    font-weight: 600;
+    color: #202020;
+}
+
+.prices {
+    height: 100%;
+    text-align: right;
+}
+
+.amount {
+    padding-top: 20px;
+    font-size: 26px;
+    font-family: "MerriweatherSans";
+    font-weight: 800;
+    color: #202020;
+}
+
+
+.remove {
+    padding-top: 5px;
+    font-size: 14px;
+    font-family: "MerriweatherSans";
+    font-weight: 600;
+    color: #E44C4C;
+    cursor: pointer;
+}
+
+.pad {
+    margin-top: 5px;
+}
+
+hr {
+    width: 70%;
+}
+
+.checkout {
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.total {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Subtotal {
+    font-size: 22px;
+    font-family: "MerriweatherSans";
+    font-weight: 700;
+    color: #202020;
+}
+
+.items {
+    font-size: 16px;
+    font-family: "MerriweatherSans";
+    font-weight: 500;
+    color: #909090;
+    line-height: 10px;
+}
+
+.total-amount {
+    font-size: 36px;
+    font-family: "MerriweatherSans";
+    font-weight: 900;
+    color: #202020;
+}
+
+.button {
+    margin-top: 10px;
+    width: 100%;
+    height: 40px;
+    border: none;
+    background: linear-gradient(to bottom right, #ffd480, #ffcc66);
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: "MerriweatherSans";
+    font-weight: 600;
+    color: #202020;
+    transition: opacity 100ms linear;
+}
+
+.button:hover {
+    background: linear-gradient(to bottom right, #b3e0ff, #80ccff);
+    border: 2px solid #ffcce6;
+}
+
+/*end list producr*/
+
+
+/*form checkout*/
+.checkout-input {
+    margin: 2%;
+
+}
+
+.content-list {
+    float: right;
+    /*background-color: #D8D8D8;*/
+    width: 50%;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    overflow: auto;
+}
+
+.checkout-input input {
+    background: rgba(255, 255, 255, 0.1);
+    margin-bottom: 10px;
+    margin-top: 3px;
+    line-height: 1.5em;
+    font-size: 20px;
+    font-size: 1.3rem;
+    border: none;
+    padding: 5px 10px 5px 10px;
+    color: #fff;
+    box-sizing: border-box;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.infor-checkout {
+    float: left;
+    background-color: #5393E6;
+    width: 50%;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    color: #eee;
+
+}
+
+.mess-payment{
+    color: red;
+    font-size: 12px;
+}
+.messAdd{
+    color: #23BF1E;
+
+}
+
+.success-add{
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin-top: 10%;
+}
+.linkOrder{
+    font-size: 17px;
+    color: #3399FF;
+    font-weight: bold;
+}
+
+.order-detail p{
+    font-weight: bold;
+}
+.order-detail p span{
+    font-weight: lighter;
+    margin-left: 5px;
+}
+
+/*end form checkout*/
